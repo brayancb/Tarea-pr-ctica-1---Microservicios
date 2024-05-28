@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Micro-Biblioteca: Ejemplo Práctico de Microservicios
 
 Este repositorio contiene un ejemplo simple de una  biblioteca virtual construida usando una **arquitectura de microservicios**.
@@ -236,3 +237,7 @@ git push origin main
 ## Tarea Práctica #2: Creando un Container Docker
 
 (Pendiente para una próxima clase)
+=======
+# Tarea-pr-ctica-1---Microservicios
+Tarea práctica #1 - Microservicios
+>>>>>>> fc3bdf103d6fff5a82475d1bb5287d36368ce552
